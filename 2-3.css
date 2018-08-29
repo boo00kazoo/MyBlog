@@ -1,0 +1,11 @@
+div{ background-color: #eeeeee;}
+h2{ 
+    border-style:double;
+    border-width:4px;
+    background-color: #cccccc;}
+h3{ 
+    border-style:dotted;}
+body{ 
+    background-color:#f00;
+    background-image:linear-gradient(rgba(0,0,0,0), rgba(0,0,0,75));
+}

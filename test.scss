@@ -1,0 +1,8 @@
+@mixin column-style {
+  background-color: #eee;
+  border: 1px solid red;
+}
+.column {
+  @include column-style;
+  color:red;
+}
